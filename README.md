@@ -1,5 +1,5 @@
 
-### <div align="center">Pablo Chagas
+### <div align="center">Pablo Augusto Teixeira das Chagas
 Tenho 16 anos. Sou um aluno de Análise e Desenvolvimento de Sistemas na escola Senai Nami Jafet, localizada em Mogi das Cruzes. </div>  
   
 
