@@ -1,1 +1,1 @@
-<img width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Ffundo-preto-e-branco&psig=AOvVaw0uGK4XU7HQbcqCK_xUF6TR&ust=1755789500645000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCTmuTXmY8DFQAAAAAdAAAAABAE"/>
+<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=160&color=black&reversal=false/>
