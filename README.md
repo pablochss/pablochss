@@ -2,7 +2,7 @@
 
 ## Técnico em Desenvolvimento de Sistemas - SENAI Nami Jafet 💻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&width=435&lines=Pablo+Augusto+Teixeira+das+Chagas;16+anos;Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&width=435&lines=Pablo+Augusto+Teixeira+das+Chagas;17+anos;Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pablochss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
