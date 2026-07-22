@@ -6,24 +6,6 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablochss&theme=dracula"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablochss&theme=dracula"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablochss&theme=dracula"/>
-
-</div>
-
----
-
 # ⚫ Minhas ferramentas
 
 ## 💻 Linguagens de Programação
@@ -103,16 +85,6 @@ Sistema de loja virtual com páginas de produtos, interface administrativa e int
 
 ### 🎮 Jogo da Velha - Crash Bandicoot
 Projeto desenvolvido aplicando lógica de programação e manipulação de interface.
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pablochss&theme=dracula&no-frame=true&row=1&column=6"/>
-
-</div>
 
 ---
 
